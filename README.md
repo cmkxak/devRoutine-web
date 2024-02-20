@@ -3,10 +3,6 @@
 > 개발자 챌린지 서비스, devRoutine
 
 <p align="center">
-프로젝트 배포 링크 : <a href = "http://ec2-13-125-242-160.ap-northeast-2.compute.amazonaws.com:8080">바로가기</a>
-</p>
-
-<p align="center">
 꾸준함의 가치는 개발자들 사이에서 중요하게 여겨지고 있습니다. <br/>
 그러나, 꾸준함을 유지하는 것은 정말 어려운데요.<br/>
 devRoutine은 여러 사람과 함께 챌린지에 도전하는 서비스를 제공함으로써 꾸준함과 동기 부여를 증진해주는 웹 서비스 입니다.
@@ -52,3 +48,35 @@ devRoutine은 여러 사람과 함께 챌린지에 도전하는 서비스를 제
 
 ## ERD
 ![image](https://user-images.githubusercontent.com/71599552/219229898-ddadcf93-c958-411e-ab63-eab6d27b9612.png)
+
+## 서비스 기능
+### 챌린지 리스트 확인
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/9ec009cf-0ea0-4ba6-9e98-3409fe141365)
+
+### 챌린지 생성
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/211c43f1-9071-4868-a070-557f21b4060a)
+
+### 챌린지 초대
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/0d287e57-b6da-4549-b119-a70be1180251)
+
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/f3d83324-2461-4ada-a974-3ec9ea28ee50)
+
+### 챌린지 인증 조회
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/f8c2d559-fbbf-4207-a38e-6727fa8fa1ea)
+
+### 챌린지 인증 상세 조회
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/46b31691-3729-44d3-b140-8df146960b8d)
+
+### 챌린지 인증 생성
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/70c3f333-398c-4533-a6da-b7703af36a43)
+
+### 마이페이지 조회
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/60dd4600-9b22-49fc-8038-58f321c1c89c)
+
+### 팔로우 기능
+![image](https://github.com/cmkxak/devRoutine-web/assets/71599552/cdb67d8e-7054-4d1c-adae-790f1d5c089a)
+
+
+
+
+
