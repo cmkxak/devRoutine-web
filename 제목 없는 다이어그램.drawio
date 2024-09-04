@@ -281,6 +281,15 @@
             <mxPoint x="310" y="1230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-157" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1240" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-158" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1310" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-159" value="18. 결제 결과 반영 (결제상태 : 04)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="301.5" y="1270" width="119" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
