@@ -30,7 +30,7 @@
           <mxGeometry x="45" y="800" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-127" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="45" y="990" width="10" height="1190" as="geometry" />
+          <mxGeometry x="45" y="990" width="11.26" height="1340" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="BCASH" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="430" y="40" width="100" height="3120" as="geometry" />
@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-187" value="26. 상품권 발권&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SMS 전송 요청&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="2080" width="319" height="30" as="geometry" />
+          <mxGeometry x="242.75" y="2080" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-188" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="2000" width="40" height="50" as="geometry" />
@@ -318,7 +318,7 @@
           <mxGeometry x="145" y="1500" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-237" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;BUBICASH_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="234.5" y="1500" width="40" height="20" as="geometry" />
+          <mxGeometry x="240" y="2300" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-241" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;BUBICASH_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="1410" width="40" height="20" as="geometry" />
@@ -400,6 +400,15 @@
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="475" y="1224" width="10" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-280" value="20. 핀체크 사용&amp;nbsp;&lt;div&gt;여부 검증&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="318.25" y="1565" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-281" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2240" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-282" value="27. 주문 결제 정보 업데이트&lt;div&gt;결제상태 : 05&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="277.25" y="2270" width="241" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
