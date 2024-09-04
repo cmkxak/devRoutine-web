@@ -27,7 +27,7 @@
           <mxGeometry x="45" y="570" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-117" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
-          <mxGeometry x="45" y="710" width="10" height="120" as="geometry" />
+          <mxGeometry x="45" y="800" width="10" height="120" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-127" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
           <mxGeometry x="45" y="940" width="10" height="1320" as="geometry" />
@@ -56,16 +56,16 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-11" value="1. 상품권 목록 조회" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="115" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-12" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="90" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-13" value="PAYCOM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-13" value="PAYCOM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="215" y="147.5" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="90" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-15" value="PROCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-15" value="PROCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="150" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-25" value="2. 상품권 조회" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -102,10 +102,10 @@
           <mxGeometry x="300" y="184" width="10" height="70" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-94" value="5. 상품 결제 내역 저장" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="325" y="352.5" width="130" height="30" as="geometry" />
+          <mxGeometry x="332.75" y="354" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-96" value="6. 결제 등록&amp;nbsp;&lt;div&gt;매핑 정보 저장&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="300" y="405" width="140" height="30" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-96" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;6. 결제 등록&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;매핑 정보 저장&lt;/span&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="274.5" y="400" width="255.5" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-99" value="8. 핀코드&lt;div&gt;사용 여부&amp;nbsp;&lt;/div&gt;&lt;div&gt;결과 저장&amp;nbsp;&lt;/div&gt;&lt;div&gt;(결제상태 : 01)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="311" y="540" width="100" height="30" as="geometry" />
@@ -119,10 +119,10 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="475" y="460" width="10" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-106" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-106" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="600" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-107" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-107" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;bubicash_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="240" y="670" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-109" value="9. 주문 결제 확인" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -131,26 +131,29 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-110" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="700" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-111" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-111" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;bubicash_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="240" y="740" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-112" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-112" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="600" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-113" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-113" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;tmshop_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="180" y="670" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-114" value="10. 결제 핀체크 사용 여부 저장&lt;div&gt;(결제 상태 : 03)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="680" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-119" value="11. 주문 결제 확인" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="770" width="100" height="30" as="geometry" />
+          <mxGeometry x="315.5" y="860" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-120" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-236" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="yCdEPDMY8eZc63eLfSou-120" target="yCdEPDMY8eZc63eLfSou-113">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-120" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="520" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-126" value="12. 핀체크 사용 여부 검증" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="820" width="100" height="30" as="geometry" />
+          <mxGeometry x="311" y="920" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-128" value="13. 주문 결제 확인" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="1000" width="109" height="30" as="geometry" />
@@ -158,23 +161,23 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-129" value="14. 핀체크 사용&amp;nbsp;&lt;div&gt;여부 검증&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="319.5" y="1110" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-130" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="970" width="40" height="50" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-130" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="982" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-131" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1030" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-131" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;bubicash_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1042" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-132" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1080" width="40" height="50" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-132" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1093" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-133" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1150" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-133" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;tmshop_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1163" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-134" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1150" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-134" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;bubicash_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1163" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-135" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1080" width="40" height="50" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-135" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1093" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-137" value="15.. 결제 요청" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="1190" width="100" height="30" as="geometry" />
@@ -221,10 +224,10 @@
             <mxPoint x="306" y="1350" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-157" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-157" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="1340" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-158" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-158" value="app_&lt;div style=&quot;font-size: 10px;&quot;&gt;bubicash_&lt;/div&gt;&lt;div style=&quot;font-size: 10px;&quot;&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="240" y="1400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-159" value="18. 결제 결과 반영 (결제상태 : 04)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -236,11 +239,8 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-163" value="20. 결제성공&lt;div&gt;(status = &#39;2&#39;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="292" y="1565" width="119" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-164" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-164" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="1545" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-166" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1615" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-167" value="21. 상품권 발급정보 조회" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="306" y="1660" width="119" height="30" as="geometry" />
@@ -266,11 +266,11 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-175" value="24, 발권 상태 업데이트&lt;div&gt;발권성공 : status = &#39;5&#39;&lt;/div&gt;&lt;div&gt;발권실패 : status = &#39;3&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="1950" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-176" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-176" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="1930" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-178" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1945" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-178" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="150" y="1945" width="70" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-179" value="25. 발권 성공 정보 저장" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="311" y="2010" width="140" height="30" as="geometry" />
@@ -287,11 +287,11 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-187" value="26. 상품권 발권&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SMS 전송 요청&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="240" y="2080" width="319" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-188" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-188" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="2000" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-190" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;giftcode&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="2015" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-190" value="TMSHOP_GIFTCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="130" y="2015" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-191" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -314,37 +314,37 @@
             <mxPoint x="655" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-198" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-198" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="140" y="180" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-199" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-199" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="180" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-200" value="PROCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-200" value="PROCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-201" value="MAINTAINENCE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-201" value="MAINTAINENCE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="210" y="235" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-202" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="220" y="344" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-203" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TMSHOP_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-203" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TMSHOP_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="392" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-205" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-205" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-206" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-206" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="270" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-207" value="PROCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-207" value="PROCODE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="160" y="324" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-208" value="PAYCOM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-208" value="PAYCOM" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="215" y="321.5" width="50" height="25" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-209" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-209" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="410" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-210" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;BUBICASH_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -353,16 +353,16 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-212" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;BUBICASH_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="234" y="570" width="40" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-213" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-213" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="240" y="770" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-214" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-214" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="180" y="770" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-215" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="840" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-215" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="70" y="840" width="150" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-216" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-216" value="&lt;div style=&quot;font-size: 10px;&quot;&gt;BUBICASH_PAY&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="240" y="840" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-219" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="yCdEPDMY8eZc63eLfSou-183">
@@ -374,26 +374,29 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-183" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="975" y="2100" width="10" height="130" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-221" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1500" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-222" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1450" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-222" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1440" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-223" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1440" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-224" value="app_&lt;div&gt;bubicash_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="1500" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-223" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1450" width="40" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-225" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.63;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="yCdEPDMY8eZc63eLfSou-163" target="yCdEPDMY8eZc63eLfSou-163">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-227" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-227" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="230" y="1650" width="40" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-228" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="1720" width="40" height="20" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-232" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1710" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-233" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="219" y="1600" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-234" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="145" y="1500" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-237" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;BUBICASH_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="234.5" y="1500" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
