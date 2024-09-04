@@ -35,9 +35,6 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="BCASH" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
           <mxGeometry x="430" y="40" width="100" height="3120" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
-          <mxGeometry x="45" y="1080" width="10" height="130" as="geometry" />
-        </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-5" value="CP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="770" y="40" width="100" height="3120" as="geometry" />
         </mxCell>
@@ -149,7 +146,7 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-143" value="16. 카드잔액검증" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="1231" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-144" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yCdEPDMY8eZc63eLfSou-139">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="645" y="1273" as="sourcePoint" />
             <mxPoint x="485" y="1273" as="targetPoint" />
@@ -394,6 +391,15 @@
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-274" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="215" y="410" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-279" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yCdEPDMY8eZc63eLfSou-139">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="1273" as="sourcePoint" />
+            <mxPoint x="485" y="1273" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="475" y="1224" width="10" height="130" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
