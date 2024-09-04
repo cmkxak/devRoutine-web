@@ -275,12 +275,6 @@
         <mxCell id="yCdEPDMY8eZc63eLfSou-201" value="MAINTAINENCE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
           <mxGeometry x="210" y="235" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-202" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
-          <mxGeometry x="220" y="344" width="40" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-203" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;TMSHOP_PAY&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="220" y="392" width="40" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-205" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="160" y="270" width="40" height="50" as="geometry" />
         </mxCell>
@@ -397,6 +391,12 @@
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-53" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="475" y="530" width="10" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-272" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="360" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-274" value="TMSHOP_PAY" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="215" y="410" width="70" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
