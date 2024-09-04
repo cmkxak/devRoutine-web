@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="PAYSHOP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="250" y="40" width="100" height="3110" as="geometry" />
+          <mxGeometry x="250" y="40" width="100" height="3120" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-1">
           <mxGeometry x="45" y="140" width="10" height="400" as="geometry" />
@@ -33,13 +33,13 @@
           <mxGeometry x="45" y="860" width="10" height="860" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="BCASH" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
-          <mxGeometry x="430" y="40" width="100" height="3110" as="geometry" />
+          <mxGeometry x="430" y="40" width="100" height="3120" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-139" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="45" y="1060" width="10" height="150" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-5" value="CP" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="770" y="40" width="100" height="1660" as="geometry" />
+          <mxGeometry x="770" y="40" width="100" height="3120" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yCdEPDMY8eZc63eLfSou-5">
           <mxGeometry x="45" y="1462" width="10" height="38" as="geometry" />
@@ -49,6 +49,9 @@
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-141" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yCdEPDMY8eZc63eLfSou-7">
           <mxGeometry x="45" y="1100" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-192" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="yCdEPDMY8eZc63eLfSou-7">
+          <mxGeometry x="45" y="445" width="10" height="25" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-11" value="1. 상품권 목록 조회" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="115" width="60" height="30" as="geometry" />
@@ -95,10 +98,10 @@
             <mxPoint x="480" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yCdEPDMY8eZc63eLfSou-53">
+        <mxCell id="yCdEPDMY8eZc63eLfSou-55" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="479.5" y="500" as="sourcePoint" />
-            <mxPoint x="299.9988888888889" y="500" as="targetPoint" />
+            <mxPoint x="475" y="510" as="sourcePoint" />
+            <mxPoint x="299.9988888888889" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-56" value="7. 결제 등록 요청" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -135,7 +138,7 @@
           <mxGeometry x="100" y="400" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-99" value="8. 핀코드&lt;div&gt;사용 여부&amp;nbsp;&lt;/div&gt;&lt;div&gt;결과 저장&amp;nbsp;&lt;/div&gt;&lt;div&gt;(결제상태 : 01)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="530" width="100" height="30" as="geometry" />
+          <mxGeometry x="311" y="540" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="yCdEPDMY8eZc63eLfSou-53">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -345,6 +348,21 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="814" y="1760" as="sourcePoint" />
             <mxPoint x="300" y="1760" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-193" value="카드 잔액 검증" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-194" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="645" y="500" as="sourcePoint" />
+            <mxPoint x="485" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-196" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="484.9988888888889" y="490.00222222222214" as="sourcePoint" />
+            <mxPoint x="655" y="490" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
