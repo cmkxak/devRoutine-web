@@ -284,8 +284,8 @@
             <mxPoint x="979.5" y="2110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-187" value="26. 상품권&amp;nbsp;&lt;div&gt;SMS 전송 요청&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="311" y="2070" width="140" height="30" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-187" value="26. 상품권 발권&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;SMS 전송 요청&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2080" width="319" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-188" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="2000" width="40" height="50" as="geometry" />
