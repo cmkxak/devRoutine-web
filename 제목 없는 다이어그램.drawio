@@ -276,7 +276,7 @@
           <mxGeometry x="306" y="1300" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-163" value="20. 결제성공&lt;div&gt;(status = &#39;2&#39;)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="301.5" y="1360" width="119" height="30" as="geometry" />
+          <mxGeometry x="292" y="1370" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-164" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="240" y="1360" width="40" height="50" as="geometry" />
@@ -285,10 +285,10 @@
           <mxGeometry x="240" y="1430" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-167" value="21. 상품권 발급정보 조회" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1410" width="119" height="30" as="geometry" />
+          <mxGeometry x="311" y="1425" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-168" value="22. 주문번호 생성" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1450" width="119" height="30" as="geometry" />
+          <mxGeometry x="306" y="1455" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-171" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
@@ -297,7 +297,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-172" value="23. 상품권 발권 요청" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="306" y="1480" width="119" height="30" as="geometry" />
+          <mxGeometry x="311" y="1485" width="119" height="30" as="geometry" />
         </mxCell>
         <mxCell id="yCdEPDMY8eZc63eLfSou-174" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="yCdEPDMY8eZc63eLfSou-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -305,8 +305,17 @@
             <mxPoint x="306" y="1530" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yCdEPDMY8eZc63eLfSou-175" value="24, 발권 상태 업데이트" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="310" y="1560" width="140" height="30" as="geometry" />
+        <mxCell id="yCdEPDMY8eZc63eLfSou-175" value="24, 발권 상태 업데이트&lt;div&gt;발권성공 : status = &#39;5&#39;&lt;/div&gt;&lt;div&gt;발권실패 : status = &#39;3&#39;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1570" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-176" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1550" width="40" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-177" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="yCdEPDMY8eZc63eLfSou-167" target="yCdEPDMY8eZc63eLfSou-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yCdEPDMY8eZc63eLfSou-178" value="app_&lt;div&gt;tmshop_&lt;/div&gt;&lt;div&gt;pay&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1620" width="40" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
